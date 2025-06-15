@@ -39,7 +39,7 @@ To create meaningful, efficient, and future-ready tech solutions that empower pe
 
 We're open to collaborations, contributions, and creative minds who share our mission. Fork our projects, suggest features, report bugs, or build something extraordinary with us.
 
-📧 For inquiries: `contact@vorlentis.tech`  
+📧 For inquiries: `vorlentis@proton.me`  
 🌐 Website: [Coming Soon]
 
 ---
